@@ -1,2 +1,2 @@
-# user-retention-revenue-analysis
+# Personal-Project
 Data Analysis Personal Project
